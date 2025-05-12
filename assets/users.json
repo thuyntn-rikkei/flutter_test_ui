@@ -1,0 +1,29 @@
+[
+  {
+    "username": "username1",
+    "fullname": "Full Name 1",
+    "email": "user1@gmail.com",
+    "age": 10,
+    "isGirl": true,
+    "job": "Student",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHAh6rdeZkX7aDKMyQahJvRgnNM2BJDWlkhKIuHX7vVT8KMTR2lP-r3P-yKdkBahzpf3g&usqp=CAU"
+  },
+  {
+    "username": "username2",
+    "fullname": "Full Name 2",
+    "email": "user2@gmail.com",
+    "age": 20,
+    "isGirl": false,
+    "job": "Engineer",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS16w0fMl0goS525bVU6MN5rwc_9DqfbQAdUQ&s"
+  },
+  {
+    "username": "username3",
+    "fullname": "Full Name 3",
+    "email": "user3@gmail.com",
+    "age": 30,
+    "isGirl": true,
+    "job": "Doctor",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVvcb1jc0Mz2y9RIwk7d4R07doX3M9LXSYYTGBiOdPY1jlg7qWCL5pf0mVX5iGHCeEYyI&usqp=CAU"
+  }
+]
